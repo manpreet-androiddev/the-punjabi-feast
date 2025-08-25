@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.app.thepunjabifeast" />
+                  <option name="mobileSdkAppId" value="1:444751116584:android:640d8a01a64a124652381d" />
+                  <option name="projectId" value="punjabifeast-b10a5" />
+                  <option name="projectNumber" value="444751116584" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

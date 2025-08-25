@@ -1,3 +1,55 @@
 <resources>
     <string name="app_name">The Punjabi Feast</string>
+    <string name="google_web_client_id">444751116584-kuudro2qms4uct9nhdm6rtp1cqv7ig3e.apps.googleusercontent.com</string>
+    <!-- Error -->
+    <string name="generic_error">Something went wrong</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="invalid_password">Passwords should have at least eight digits and include one digit, one lower case letter and one upper case letter</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="could_not_find_account">We couldn\'t find your account id at the moment, please try again later</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Settings</string>
+
+    <!--main pager-->
+    <string name="main_pager1">It\'s time to enjoy\n a sweet treat</string>
+    <string name="main_pager2">Food that \n feeds the soul</string>
+    <string name="main_pager3">Flavour \n that dances on your tongue</string>
+    <string name="main_pager4">Dine like divine</string>
+    <string name="main_pager5">Lip smacking\n [yet healthy delicacies]</string>
+    <string name="main_pager6">A Bowl of\n Happiness never fails</string>
+    <string name="main_pager7">Good Food\n its all you need</string>
+    <string name="main_pager8">A bite of happiness\n sip of joy</string>
+    <string name="main_pager_img_desc">Image %d</string>
+    <string name="close">Close</string>
+
+    <!--Login/Signup-->
+    <string name="login">Login</string>
+    <string name="sign_up">SignUp</string>
+    <string name="register">Register</string>
+    <string name="bg_desc">background image</string>
+    <string name="name">User name</string>
+    <string name="password">Password</string>
+    <string name="password_info">Password must be at-least 8 characters long and contain one digit, one uppercase letter, one lowercase letter and a special character</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="wrong_email">Wrong Email</string>
+    <string name="user_dob">DOB</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="user_phone">Phone Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="continue_with">Or Continue With</string>
+    <string name="login_with_gmail">Login with gmail</string>
+    <string name="login_with_twitter">Login with twitter</string>
+    <string name="loading_failed">loading_failed</string>
+    <string name="retry">retry</string>
+    <string name="internet_not_connected">Unable to access Internet. Kindly check your connection.</string>
+    <string name="no_credentials_found">No Google account found on this device.</string>
+    <string name="credentials_not_cleared">Couldn\'t clear credentials: %1$s</string>
+    <string name="signIn_cancelled">Google sign-in cancelled</string>
+
+    <!--forgot-->
+    <string name="send_link">Send Link</string>
 </resources>
