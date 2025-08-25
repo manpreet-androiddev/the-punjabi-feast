@@ -1,15 +1,29 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+# Built application files
+        *.apk
+        *.ap_
+
+# Ignore specific files
+    local.properties
+    debug.keystore
+    app/google-services.json
+
+    # Ignore entire directories
+    /.kotlin/errors
+    /local.properties
+    /.idea/caches
+    /.idea/libraries
+    /.idea/modules.xml
+    /.idea/workspace.xml
+    /.idea/navEditor.xml
+    /.idea/assetWizardSettings.xml
+    /build/
+    /.idea/
+    /captures/
+    .gradle
+    .DS_Store
+    .externalNativeBuild
+    .cxx
+
+    # Ignore files by pattern
+    *.iml
+    *.log
